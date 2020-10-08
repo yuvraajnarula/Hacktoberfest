@@ -1,3 +1,10 @@
+
+
+![Issues](https://img.shields.io/github/issues/yuvraajnarula/Hacktoberfest)
+![Pull Requests](https://img.shields.io/github/issues-pr/yuvraajnarula/Hacktoberfest)
+![Forks](https://img.shields.io/github/forks/yuvraajnarula/Hacktoberfest)
+![Stars](https://img.shields.io/github/stars/yuvraajnarula/Hacktoberfest)
+
 # Hacktoberfest
 A repository where you can upload any code in any language of your choice. Feel Free to add your code here
 ## Collaborating 
